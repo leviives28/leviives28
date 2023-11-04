@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leviives28
-- 👀 I’m interested in full stack development
+- 👀 I’m interested in web and software development
 - 🌱 I’m currently completing a bachelors degree in Comp-sci with the Open University
 - 📫 levi1197@hotmail.co.uk
 
